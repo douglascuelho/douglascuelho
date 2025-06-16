@@ -8,7 +8,20 @@
 
 ###
 
-<p align="left">📚 Atualmente estou me especializando no desenvolvimento fullstack, aprendendo e aplicando novas tecnologias.<br><br>Sou apaixonado por tecnologia e criação. Com formação em Arquitetura e pós-graduação em Game Design, desenvolvi habilidades essenciais como liderança, pensamento criativo e trabalho em equipe. Minha jornada no mundo da programação começou com um Bootcamp Java Fullstack, na SoulCode onde adquiri conhecimento sólido em diversas tecnologias e ferramentas de desenvolvimento.<br><br>Durante o bootcamp, trabalhei em projetos que foram amplamente elogiados, demonstrando minha capacidade de resolver problemas complexos e entregar soluções de alta qualidade. Esse percurso me permitiu aprimorar minhas habilidades técnicas e reforçou minha paixão por criar produtos digitais inovadores.<br><br>Tenho um compromisso firme com o desenvolvimento contínuo, buscando constantemente novos conhecimentos e aprimorando minhas habilidades. Estou sempre atento às tendências e avanços tecnológicos, e pretendo continuar estudando e me especializando em áreas de interesse, como desenvolvimento de software e design de sistemas.</p>
+<p align="left">📚 Sou apaixonado por tecnologia e criação. Atualmente, atuo como estagiário de suporte na SoftExpert e estou cursando Análise e Desenvolvimento de Sistemas. Também estou aprimorando minhas habilidades em desenvolvimento de jogos com Unity, participando de um bootcamp focado em criação de jogos e programação com C#.
+
+Minha jornada no desenvolvimento de software começou com um bootcamp fullstack, onde aprendi Java, JavaScript, e trabalhei com bancos de dados SQL, além de desenvolver habilidades em HTML, CSS, Bootstrap e jQuery.
+
+Tenho formação em Arquitetura e Urbanismo e pós-graduação em Game Design, o que me proporciona uma base criativa sólida para atuar em áreas que exigem inovação e criatividade, como o design de jogos e a criação de soluções tecnológicas.
+
+💡 Minhas principais habilidades incluem:
+✅ Suporte técnico e atendimento ao cliente
+✅ Desenvolvimento de software (Java, JavaScript, SQL, HTML, CSS, Bootstrap, jQuery)
+✅ Desenvolvimento de jogos (Unity, C#)
+✅ Game Design e Level Design
+✅ Resolução de problemas e pensamento analítico
+
+Estou sempre em busca de aprender mais e explorar novas oportunidades para crescer profissionalmente. Aberto a novas conexões, colaborações e desafios!</p>
 
 ###
 
